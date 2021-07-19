@@ -1,3 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Page title</title>
+  </head>
+  <body>
+    <img src="images/company-logo.png" alt="Company">
+    <h1 class="hello-world">Hello, world!</h1>
+  </body>
+</html>
+
 **Ildus Bareev**
 Mobile phone: +79603742949; email: bif1981@yandex.ru; telegram: https://t.me/bif1981
 I am studying frontend development (html, css and javascript), also python. I worked with DB and SQL. I studied QA on my own.

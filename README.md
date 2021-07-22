@@ -1,1 +1,1 @@
-https://bif1981.github.io/rsschool-cv/cv
+https://bif1981.github.io/rsschool-cv/

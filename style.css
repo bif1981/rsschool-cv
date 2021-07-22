@@ -1,0 +1,47 @@
+
+     body {
+        font-size: 16px;
+        background-color: aquamarine;
+        text-align: center;
+    }
+    
+    images {
+        margin: auto;
+    }
+
+    .h1 {
+    font-size: 24px;
+    }
+    
+    .phone {
+        font-size: 16px;
+        color: black;
+    }
+    
+    .email {
+        font-size: 16px;
+    }
+
+    .telegram {
+        font-size: 16px
+    }
+
+    .navyki {
+        font-size: 16px
+    }
+
+    .skills {
+        font-size: 16px;
+    }
+          
+    .carrier {
+        font-size: 16px
+    }
+      
+    .education {
+        font-size: 16px
+    }
+      
+    .english {
+        font-size: 16px
+    }
